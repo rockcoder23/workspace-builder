@@ -8,7 +8,11 @@
 - 支持备份和恢复 sublime text 配置
 
 ## Usage
+- 先 fork 到自己的仓库中
+- 配置好自己常用的配置，执行下列命令
 
 ```shell
+		
+	#一键搞定
 	sh build.sh
 ```
