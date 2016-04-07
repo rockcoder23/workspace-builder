@@ -14,7 +14,7 @@
 	ln -s your-path-to-workspace-builder/sublime/User your-path-to-ST-Packages
 	```
 
-- 重启 ST 
+- 重启 ST , 检查 ST 的 Preference.
 
 ## Update
 
