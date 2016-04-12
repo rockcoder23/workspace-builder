@@ -5,6 +5,5 @@ sh ./alias/alias.sh
 sh ./homebrews/install.sh
 
 # 配置 sublime
-sublimeUserFord=~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User
-rm -r $sublimeUserFord
-ln -s ./sublime/User $sublimeUserFord
+rm -rf  ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User
+ln -s $PWD/sublime/User ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User
