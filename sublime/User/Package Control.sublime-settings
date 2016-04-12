@@ -2,21 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"AutoFileName",
-		"BracketHighlighter",
-		"Diffy",
-		"DocBlockr",
-		"Emmet",
-		"Git",
-		"HTML-CSS-JS Prettify",
-		"LESS",
-		"Markdown Preview",
-		"ReactJS Snippets",
-		"SideBarEnhancements",
-		"SublimeCodeIntel",
-		"SublimeLinter-contrib-eslint",
-		"Theme - Soda",
-		"Vue Syntax Highlight"
 	],
 	"installed_packages":
 	[
